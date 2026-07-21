@@ -5,6 +5,13 @@
 
 ---
 
+## About this guide / À propos / Over deze gids
+
+Practical trilingual (NL / FR / EN) playbook for **quiet luxury** and **old money** shopping on **Vinted Belgium**.
+Copy-paste search strings, brand cues, and seasonal tactics. Not affiliated with Vinted.
+
+---
+
 ## 🔍 ZOEKTERMEN / TERMES DE RECHERCHE / SEARCH TERMS
 
 Kopieer, plak en wijzig. Copiez, collez, modifiez. Copy, paste, adapt.
@@ -541,3 +548,8 @@ Kiton blazer "fait main"
 
 *Laatst bijgewerkt: juni 2026 | Dernière mise à jour: juin 2026*
 *Alle prijzen zijn indicatief in EUR voor Vinted.be | Tous les prix sont indicatifs en EUR pour Vinted.be*
+
+
+## License
+
+MIT © 2026 Stijnman — content free to adapt with attribution.
